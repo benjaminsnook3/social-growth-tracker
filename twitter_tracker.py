@@ -4,8 +4,8 @@ import os
 from datetime import datetime
 
 # ---- USER SETTINGS ----
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAI5S3gEAAAAAW0LX29ArezUSVBnySms5SiPzGOA%3DBAaqzKmuYb6OEOJXfyvsufCPD9SkR80bs78W632y3gjOQLKpNZ"  # paste from Twitter Dev Portal
-USERNAMES = ["BuniMunki", "anotherusername"]  # list of accounts (no @)
+BEARER_TOKEN = "YOUR_BEARER_TOKEN_HERE"  # paste from Twitter Dev Portal
+USERNAMES = ["username", "anotherusername"]  # list of accounts (no @)
 CSV_FILE = "twitter_followers.csv"
 
 # ---- API CALL FUNCTION ----
